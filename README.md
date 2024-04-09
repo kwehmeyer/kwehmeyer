@@ -1,7 +1,5 @@
-![](gifs/welcome.gif)
+# Hi, and welcome to my Github profile.
 
-Still working to make this page more professional/interesting.  
+Eventually there will be something worth reading here.
 
-![](gifs/under-construction.gif)
-
-![](gifs/apple-.gif) ![](gifs/linux-powered.gif) ![](gifs/free-internet.gif) ![](gifs/penguin.gif)
+But for the time being please check out my [LinkedIn](https://www.linkedin.com/in/kwehmeyer/)
